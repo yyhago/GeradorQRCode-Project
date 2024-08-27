@@ -1,6 +1,6 @@
 import chalk from 'chalk';
 
-// Definir o tipo para enviar (NORMAL OU TERMINAL)!
+// Schema e definição do tipo para enviar (NORMAL OU TERMINAL)!
 const qrCodePrompt = [
   {
     name:"link",
