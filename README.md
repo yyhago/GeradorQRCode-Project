@@ -7,6 +7,12 @@ GeradorQRCode-Project é uma aplicação de linha de comando robusta e versátil
 
 Combinando conveniência e segurança, o GeradorQRCode-Project é uma solução ideal para desenvolvedores e usuários que necessitam de uma ferramenta confiável para criar QR codes e gerar senhas fortes.
 
+## Screenshots
+
+![Primeira Tela](/pictureScreen/image2.png)
+![Segunda Tela](/pictureScreen/image.png)
+
+
 ## Requisitos
 
 - Node.js (versão 12.0.0 ou superior)
