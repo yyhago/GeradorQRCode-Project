@@ -1,6 +1,6 @@
 import chalk from 'chalk';
 
-// Schema e definição do tipo para enviar (NORMAL OU TERMINAL)!
+// Schema caso escolha gerar QRCODE.
 const qrCodePrompt = [
   {
     name:"link",

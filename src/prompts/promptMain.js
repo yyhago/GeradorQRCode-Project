@@ -1,6 +1,6 @@
 import chalk from 'chalk';
 
-// Schema definido da documentação do prompt!
+// Schema do mainPrompt com as pré-setagens feitas!
 const mainPrompt = [
   {
     name: 'select',
