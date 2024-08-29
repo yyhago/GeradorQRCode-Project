@@ -7,7 +7,7 @@ async function handler(err, result){
     return
   }
 
-  const isSmall = result.type == 2; // Geração do QRCODE
+  const isSmall = result.type == 1; // Geração do QRCODE
   qr.generate(result.link, {small: isSmall}, (qrcode) => {
     console.log(chalk.yellow('QRCODE Gerado Com Sucesso!\n'))
     console.log(qrcode)
