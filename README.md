@@ -84,10 +84,13 @@ Combinando conveniência e segurança, o GeradorQRCode-Project é uma solução 
    touch .env
    ```
 
-2. Adicione as seguintes variáveis de ambiente ao arquivo `.env`:
+2. Modifique as seguintes variáveis de ambiente ao arquivo `.env`:
    ```
-   QR_CODE_SIZE=300
-   PASSWORD_LENGTH=16
+   UPPERCASE_LETTERS=false
+   LOWERCASE_LETTERS=true
+   NUMBERS=true
+   SPECIAL_CHARACTERS=true
+   PASSWORD_LENGTH=12
    ```
 
 ## Uso
